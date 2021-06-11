@@ -34,10 +34,13 @@
 }
 
 .contenedor4 {
+  display: grid;
+  margin: 50px;
+}
+
+.rowej4 {
   display: flex;
-  justify-content: space-around;
-  flex-wrap: wrap;
-  gap: 20px;
+  justify-content: center;
 }
 
 .row1 {
@@ -109,6 +112,7 @@
   font-family: "Lato", sans-serif;
   text-align: center;
   align-content: center;
+  margin: 10px;
 }
 
 /*# sourceMappingURL=main.css.map */

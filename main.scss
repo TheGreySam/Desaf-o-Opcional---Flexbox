@@ -34,14 +34,16 @@
   }
 }
 .contenedor4 {
-  display: flex;
-  justify-content: space-around;
-  flex-wrap: wrap;
-  gap: 20px;
+  display: grid;
+  margin: 50px;
 
 }
 .contenedor5 {
 
+}
+.rowej4 {
+  display: flex;
+  justify-content: center;
 }
 .row1 {
   display: flex;
@@ -112,4 +114,5 @@
   font-family: 'Lato', sans-serif;
   text-align: center;
   align-content: center;
+  margin:10px;
 }
