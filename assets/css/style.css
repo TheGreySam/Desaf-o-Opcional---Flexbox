@@ -1,0 +1,71 @@
+.contenedor1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 1000px;
+}
+
+.contenedor2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.contenedor2 input {
+  padding: 10pt;
+  width: 50%;
+}
+
+.contenedor3 {
+  display: flex;
+  font-family: "Lato", sans-serif;
+  border-color: black;
+  border-width: 1px;
+  border-style: solid;
+  justify-content: space-between;
+  padding-left: 30pt;
+  padding-right: 30pt;
+}
+.contenedor3 li {
+  display: inline;
+  font-family: "Courier Prime", monospace;
+  font-weight: bold;
+  color: black;
+  padding: 10px;
+}
+
+.contenedor4 {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.boton-ej1 {
+  background-color: #81F4E1;
+  padding: 10pt;
+  color: white;
+  font-family: "Lato", sans-serif;
+}
+
+.boton-ej2 {
+  background-color: #56CBF9;
+  padding: 10pt;
+  color: white;
+  font-family: "Lato", sans-serif;
+  border-color: black;
+  border-width: 1px;
+  border-style: solid;
+}
+
+.boton-ej4 {
+  display: grid;
+  background-color: #FF729F;
+  width: 120px;
+  height: 30px;
+  color: white;
+  font-family: "Lato", sans-serif;
+  text-align: center;
+  align-content: center;
+}
+
+/*# sourceMappingURL=style.css.map */
